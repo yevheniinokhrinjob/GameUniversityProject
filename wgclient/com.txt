@@ -1,0 +1,4 @@
+cd C:\Programing\Java\GamesJava\GameWords\wgclient
+
+
+java -jar target/gwclient-0.0.1-SNAPSHOT.jar
